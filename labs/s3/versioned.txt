@@ -1,0 +1,9 @@
+This is  a text file
+--
+This is a second version text
+--
+3 :-)
+--
+4
+--
+Version: 3
