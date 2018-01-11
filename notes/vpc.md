@@ -2,7 +2,7 @@
 
 - VPC needs CIDR block 
 - Largest /16, smallest /28 (5 addressed reserved)
-
+- Once VPC is configured to be Dedicated Hosting - you can't change it you have to create new one
 ## Subnet - AVAILABILITY ZONE
     - Smallest CIDR /28 (16 ip addrss) - default /20
     - 5 ip reserved always
